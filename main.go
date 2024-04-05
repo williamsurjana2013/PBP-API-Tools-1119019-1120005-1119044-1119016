@@ -1,8 +1,8 @@
 package main
 
 import (
-	controllers "TugasFramework/controllers"
-	model "TugasFramework/model"
+	controllers "Tugas_Expo/controllers"
+	model "Tugas_Expo/model"
 	"context"
 	"fmt"
 	"log"
