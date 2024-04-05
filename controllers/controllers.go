@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	model "TugasFramework/model"
+	model "Tugas_Expo/model"
 )
 
 const CONFIG_SMTP_HOST = "smtp.gmail.com"
